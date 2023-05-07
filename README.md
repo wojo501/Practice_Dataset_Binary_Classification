@@ -1,5 +1,5 @@
 # Practice_Dataset_Binary_Classification
-## Machine Learning basics with proper preprocessing
+## Machine Learning basics and preprocessing
  First project with machine learning in python
  
  This project was created by:
