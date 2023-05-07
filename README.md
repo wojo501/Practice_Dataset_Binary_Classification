@@ -18,18 +18,21 @@ The main goal of this project was to learn the basics about preprocessing and bu
 6) Boosted models by choosing proper hyper-parameters.
 <br/>
 
+Plotting columns standard deviations.
 ![standard deviation dataset](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/std_scatter.png)
 
 ![standard deviation dataset](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/std_columns.png)
 
 <br/>
-
+Building models.
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_search.png)
 
+Checking confusion matrix for each model.
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_conf.png)
 
+Evaluating models by AUC score.
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_auc.png)
 
 <br/>
-
+Summarising models.
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/models_eval.png)
