@@ -28,10 +28,12 @@ Building models.
 
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_search.png)
 
+<br/>
 Checking confusion matrix for each model.
 
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_conf.png)
 
+<br/>
 Evaluating models by AUC score.
 
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_auc.png)
