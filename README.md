@@ -25,7 +25,9 @@ The main goal of this project was to learn the basics about preprocessing and bu
 
 <br/>
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_search.png)
+
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_conf.png)
+
 ![models](https://github.com/wojo501/Practice_Dataset_Binary_Classification/blob/main/images/grid_auc.png)
 
 <br/>
