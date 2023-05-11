@@ -4,7 +4,7 @@
  
  This project was created by:
 - [Wojciech Michaluk](https://github.com/wojo501)
-- Michaił Legczylin
+- [Michaił Legczylin](https://github.com/Albdarion)
 
 It was first project of university ML corse. <br/><br/>
 The main goal of this project was to learn the basics about preprocessing and building models. We had artigicially made [dataset](https://www.kaggle.com/datasets/nextbigwhat/dataset-1) from Kaggle. <br/><br/>
